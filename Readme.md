@@ -80,7 +80,6 @@ The overall project focuses on extending a fine-tuned CLIP retrieval system with
 
 ```text
 Project-3/
-├── notebook/
 ├── task_1_notebook/
 ├── task_2_notebook/
 ├── Task_3/
@@ -111,4 +110,4 @@ Some files from the full project were intentionally placed in `.gitignore`, so t
 
 If you need the complete version of this project, including files not available in this repository, use the Google Drive link below:
 
-[Project_3_Drive_link](https://drive.google.com/)
+[Project_3_Drive_link](https://drive.google.com/drive/folders/1gL3_7WE4o9FCnLJtsFx3HVXGezDaIgpE?usp=drive_link)
