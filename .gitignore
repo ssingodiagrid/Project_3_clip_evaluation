@@ -3,3 +3,5 @@
 !.gitignore
 !*.ipynb
 /clipenv310
+!*.txt
+!*.md
