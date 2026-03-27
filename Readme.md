@@ -111,4 +111,5 @@ Some files from the full project were intentionally placed in `.gitignore`, so t
 If you need the complete version of this project, including files not available in this repository, use the Google Drive link below:
 
 [Project_3_Drive_link](https://drive.google.com/drive/folders/1gL3_7WE4o9FCnLJtsFx3HVXGezDaIgpE?usp=drive_link)
+
 [Task_report_Project_3_Drive_link](https://drive.google.com/drive/folders/1dJhNpja6n9GtbMggBsaRlKEeLZqWHqDM?usp=drive_link)
