@@ -109,7 +109,7 @@ Some files from the full project were intentionally placed in `.gitignore`, so t
 ## Demo Links
 [Compare b/w HNSW, IVF, brute force](https://0d4e690b439b7059ea.gradio.live/)
 
-[Clip Fine tuned](https://3f16bdb366b099cb19.gradio.live/)
+[Clip Fine tuned](https://c2238301b0a5ce39f4.gradio.live/)
 
 ## Full Project Drive Link
 
