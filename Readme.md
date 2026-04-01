@@ -107,9 +107,9 @@ Project-3/
 Some files from the full project were intentionally placed in `.gitignore`, so this repository does not include every artifact, cache file, dataset asset, or intermediate output used during development. If anyone needs access to the complete project version, I can share a Google Drive link containing the full project files.
 
 ## Demo Links
-[Compare b/w HNSW, IVF, brute force](https://0d4e690b439b7059ea.gradio.live/)
+[Compare b/w HNSW, IVF, brute force](https://cf3fd8219871b01863.gradio.live)
 
-[Clip Fine tuned](https://c2238301b0a5ce39f4.gradio.live/)
+[Clip Fine tuned](https://bea564b5c3d3ae4a19.gradio.live)
 
 ## Full Project Drive Link
 
